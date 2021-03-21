@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khaled-Helmy software engineer 
 -💬 Ask me about Flutter and Dart.
-- 👀 I’m interested in 
+- 👀 I’m interested in any new technology
 - 🌱 I’m currently learning bloc library
 - 💞️>🧑‍💻 I’m looking to collaborate on open source projects
 - 📫 How to reach me ... linkedin link: https://www.linkedin.com/in/khaled-helmy-07a036170/
